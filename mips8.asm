@@ -1,3 +1,4 @@
+# take the x and y coordinates of the center of circle (in $a0 and $a1), the radius (in $a2), and the color of circle (in $a3) as inputs, draws several circles
 .data
 	DISPLAY: .space 0x00100 #8*8*4, we need to reserve this space at the beginning of .data segment
 	DISPLAYWIDTH: .word 64
