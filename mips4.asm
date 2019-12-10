@@ -1,3 +1,4 @@
+# procedure reverse, given string s and its length, reverses s
 #[OP2] was implemented
 .data 
 	nl: .asciiz "\n"
