@@ -1,3 +1,4 @@
+# given x and y, program replaces all x with y in Arr
 .data
 	Arr: .word 21 20 51 83 20 20
 	length: .word 6
