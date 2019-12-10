@@ -1,3 +1,4 @@
+# computes cosine using Taylor expansion
 .data
 	x: .float 0.5585
 	pi: .float 3.141592653589793
