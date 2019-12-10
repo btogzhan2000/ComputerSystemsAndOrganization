@@ -1,3 +1,4 @@
+# replace procedure (function)
 .data
 	Arr: .word 21 20 51 83 20 20
 	length: .word 6
