@@ -1,3 +1,4 @@
+# fibonacci sequence for the fisrst 7 values
 .data
 	Fib: .word 0 1
 
