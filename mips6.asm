@@ -1,8 +1,9 @@
+# prompts user for two integers and computes sum, uses exception handling for not valid integers and too big sum
 .data 
 	s: .space 256
 	etext: .asciiz "Try again!"
-	str1ask: .asciiz "Enter first string: "
-	str2ask: .asciiz "Enter second string: "
+	str1ask: .asciiz "Enter first int: "
+	str2ask: .asciiz "Enter second int: "
 	sum: .asciiz "The sum is: "
 	address: .word 0x00400000
 	nl: .asciiz "\n"	
