@@ -1,3 +1,4 @@
+# recursive procedure for computing power, takes base and exponent, returns power
 .data 
 	str1ask: .asciiz "Enter base: "
 	str2ask: .asciiz "Enter exponent: "
