@@ -1,3 +1,4 @@
+# given a string s and its length, sort s using bubble sort
 .data 
 	nl: .asciiz "\n"
 	s: .asciiz "HelloWorld"
